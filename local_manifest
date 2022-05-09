@@ -9,6 +9,6 @@
         <project path="device/xiaomi/chiron" name="android_device_xiaomi_chiron" remote="kiruno" revision="cherish-12" clone-depth="1" />
         <project path="device/xiaomi/msm8998-common" name="android_device_xiaomi_chiron-common" remote="kiruno" revision="cherish-12" clone-depth="1" />
         <project path="kernel/xiaomi/msm8998" name="android_kernel_xiaomi_msm8998" remote="kernelin" revision="lineage-18.1" clone-depth="1" />
-        <project path="vendor/xiaomi" name="vendor-xiaomi" remote="spot1x" revision="cherish" clone-depth="1" />
+        <project path="vendor/xiaomi" name="vendor-xiaomi" remote="kiruno" revision="cherish" clone-depth="1" />
 
 </manifest>
